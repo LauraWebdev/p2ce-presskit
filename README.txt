@@ -10,6 +10,6 @@ Logos: Our Logos and Icons, subject to the guidelines at https://branding.portal
 
 License:
 
-You may use these assets to report on Portal 2: Community Edition. We request to be credited as "Portal 2: Community Edition Team" when the main topic isn't Portal 2: Community Edition.
+You may use these assets for talking about, reporting on, or creating content related to Portal 2: Community Edition without credit as long as the focus of what is being made is on Portal 2: Community Edition. If the focus is not on Portal 2: Community Edition, we request to be credited as "Portal 2: Community Edition Team" or "P2CE Team".
 Our logos have special guidelines, available at https://branding.portal2communityedition.com
 
